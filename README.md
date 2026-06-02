@@ -44,26 +44,21 @@
 
 ## 📂 Featured Projects
 
-### 📊 Sales Dashboard Project
+### 📊 HR Analytics Project 
 
-Interactive Power BI dashboard designed to analyze sales performance and business KPIs.
+📌 End-to-end HR data analysis project focused on understanding employee attrition patterns and key workforce insights.
 
-✨ Features:
-- Dynamic visualizations
-- KPI tracking
-- Interactive filters
-- Trend analysis
-- Data-driven insights
+🔗 Project Repo: https://github.com/SimranBhasin13200/HR_Analytics
 
-### 📈 Customer Analytics Project
+✨ **Key Highlights**
+• Employee attrition pattern analysis
+• Impact of salary, job role & satisfaction on retention
+• Data cleaning & preprocessing using Python
+• Exploratory Data Analysis (EDA) for insights
+• Data visualization for trend discovery
 
-Analyzed customer behavior using SQL and Python to identify trends and support business decisions.
-
-✨ Features:
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- Customer segmentation
-- Business reporting
+🛠️ **Tools Used**
+Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
 
 ---
 
