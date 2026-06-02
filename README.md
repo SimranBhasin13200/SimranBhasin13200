@@ -95,7 +95,7 @@ Analyzed customer behavior using SQL and Python to identify trends and support b
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/simranbhasinanalytics1320">
+  <a href="https://www.linkedin.com/in/SimranBhasin1320">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
