@@ -51,6 +51,7 @@
 🔗**Project Repo**: https://github.com/SimranBhasin13200/HR_Analytics
 
 ✨ **Key Highlights**
+
 • Employee attrition pattern analysis.
 
 • Impact of salary, job role & satisfaction on retention.
@@ -61,7 +62,7 @@
 
 • Data visualization for trend discovery.
 
-🛠️** Tools Used:**
+🛠️ **Tools Used:**
 Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
 
 ---
