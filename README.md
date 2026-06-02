@@ -1,97 +1,127 @@
-<h1 align="center">Hi 👋, I'm Simran</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
+# Hi there, I'm Simran Bhasin 👋
+
+### Aspiring Data Analyst | SQL • Python • Power BI • Excel
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=false&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Power+BI+Dashboard+Creator;SQL+%7C+Python+%7C+Excel;Turning+Data+into+Insights;Data+Driven+Decision+Maker" alt="Typing SVG" />
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-📊 Passionate about Data Analytics and Business Intelligence
+🎓 Aspiring Data Analyst passionate about Data Analytics & Business Intelligence
 
-📈 Skilled in transforming raw data into meaningful insights
+📊 Skilled in SQL, Python, Power BI, and Excel
 
-💡 Interested in Data Visualization, Reporting, and Decision-Making
+📈 Love transforming raw data into meaningful insights and interactive dashboards
 
-🌱 Currently learning Advanced SQL, Power BI, Python, and Data Storytelling
+💡 Interested in solving real-world business problems using data-driven solutions
 
-🚀 Continuously building projects to solve real-world business problems
+🌱 Currently learning Advanced SQL, Data Visualization, and Analytics Projects
+
+⚡ Always exploring new ways to turn data into actionable business insights
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Data Analysis
-- SQL
-- Python
-- Excel
-- Power BI
+### 📌 Languages & Tools
 
-### Python Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-### Databases
-- MySQL
-- SQL Server
+### 📊 Data Analytics Tools
 
-### Tools
 - Power BI
 - Microsoft Excel
-- Git & GitHub
-- Jupyter Notebook
+- SQL
+- Python (Pandas, NumPy, Matplotlib)
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Sales Performance Dashboard
-- Built an interactive Power BI dashboard.
-- Analyzed sales trends, revenue, and customer behavior.
-- Improved decision-making through visual insights.
+### 📊 Sales Dashboard Project
+
+Interactive Power BI dashboard designed to analyze sales performance and business KPIs.
+
+✨ Features:
+- Dynamic visualizations
+- KPI tracking
+- Interactive filters
+- Trend analysis
+- Data-driven insights
 
 ### 📈 Customer Analytics Project
-- Used Python and SQL for data cleaning and analysis.
-- Identified customer retention patterns and key KPIs.
 
-### 📉 Data Cleaning & Exploration
-- Processed large datasets using Pandas.
-- Performed EDA and generated actionable insights.
+Analyzed customer behavior using SQL and Python to identify trends and support business decisions.
+
+✨ Features:
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Customer segmentation
+- Business reporting
 
 ---
 
-## 📚 Currently Learning
+## 📈 GitHub Stats
 
-- Data Analytics
-- Business Intelligence
-- Data Visualization
-- Statistics for Data Analysis
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
 - Advanced SQL
+- Power BI Dashboard Development
+- Python for Data Analysis
+- Business Intelligence
+- Data Storytelling
+- Real-world Analytics Projects
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/simranbhasinanalytics1320">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:simransharma5699382@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/itzz.simran._">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+---
+
+## ✨ Quote I Believe In
+
+> "Without data, you're just another person with an opinion."
+>
+> — W. Edwards Deming
 
 ---
 
-## 📫 Connect With Me
+## ⚡ Fun Fact
 
-💼 LinkedIn: Your LinkedIn Profile
-
-📧 Email: your.email@gmail.com
-
-🌐 Portfolio: Your Portfolio Website
+I enjoy transforming messy datasets into meaningful stories and interactive dashboards that help people make smarter decisions.
 
 ---
 
-### ✨ Motto
-
-"Without data, you're just another person with an opinion."
+⭐️ From **Simran Bhasin**
