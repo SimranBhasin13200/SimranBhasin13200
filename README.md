@@ -48,7 +48,7 @@
 
 📌 End-to-end HR data analysis project focused on understanding employee attrition patterns and key workforce insights.
 
-🔗 Project Repo: https://github.com/SimranBhasin13200/HR_Analytics
+🔗 **Project Repo:** https://github.com/SimranBhasin13200/HR_Analytics
 
 ✨ **Key Highlights**
 • Employee attrition pattern analysis
