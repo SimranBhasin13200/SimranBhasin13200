@@ -48,16 +48,20 @@
 
 📌 End-to-end HR data analysis project focused on understanding employee attrition patterns and key workforce insights.
 
-🔗 Project Repo: https://github.com/SimranBhasin13200/HR_Analytics
+🔗**Project Repo**: https://github.com/SimranBhasin13200/HR_Analytics
 
 ✨ **Key Highlights**
 • Employee attrition pattern analysis.
+
 • Impact of salary, job role & satisfaction on retention.
+
 • Data cleaning & preprocessing using Python.
+
 • Exploratory Data Analysis (EDA) for insights.
+
 • Data visualization for trend discovery.
 
-🛠️ Tools Used
+🛠️** Tools Used:**
 Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
 
 ---
