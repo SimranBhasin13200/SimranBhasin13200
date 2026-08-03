@@ -1,128 +1,60 @@
 # Hi there, I'm Simran Bhasin 👋
-
-### Aspiring Data Analyst | SQL • Python • Power BI • Excel
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=false&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Power+BI+Dashboard+Creator;SQL+%7C+Python+%7C+Excel;Turning+Data+into+Insights;Data+Driven+Decision+Maker" alt="Typing SVG" />
-
----
+### Aspiring Data Analyst & Data Scientist | SQL • Python • Power BI • Excel • ML
 
 ## 🚀 About Me
 
-🎓 Aspiring Data Analyst passionate about Data Analytics & Business Intelligence
-
-📊 Skilled in SQL, Python, Power BI, and Excel
-
-📈 Love transforming raw data into meaningful insights and interactive dashboards
-
-💡 Interested in solving real-world business problems using data-driven solutions
-
-🌱 Currently learning Advanced SQL, Data Visualization, and Analytics Projects
-
-⚡ Always exploring new ways to turn data into actionable business insights
-
----
+- 🎓 Aspiring Data Analyst & Data Scientist passionate about Data Analytics, Business Intelligence, and Machine Learning
+- 📊 Skilled in SQL, Python, Power BI, and Excel
+- 🤖 Building machine learning models to solve real-world prediction problems
+- 📈 Love transforming raw data into meaningful insights and interactive dashboards
+- 💡 Interested in solving real-world business problems using data-driven solutions
+- 🌱 Currently learning Advanced SQL, Data Visualization, and Machine Learning
+- ⚡ Always exploring new ways to turn data into actionable business insights
 
 ## 🛠️ Tech Stack
 
-### 📌 Languages & Tools
+**Languages & Tools**
+Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) • SQL • Power BI • Microsoft Excel
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
-
-### 📊 Data Analytics Tools
-
-- Power BI
-- Microsoft Excel
-- SQL
-- Python (Pandas, NumPy, Matplotlib)
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis (EDA)
-
----
+**Core Skills**
+Data Cleaning • Data Visualization • Exploratory Data Analysis (EDA) • Machine Learning • Dashboard Development
 
 ## 📁 Featured Projects
 
-### 📊 HR Analytics Project
+### 🚢 Titanic Survival Prediction
+Predicting Titanic passenger survival using a complete data science pipeline — EDA, feature engineering, and comparison across three ML models (Logistic Regression, Decision Tree, Random Forest).
+🔗 Project Repo: https://github.com/simranbhasin310/Titanic-survival-prediction
 
-End-to-end HR data analysis project focused on understanding employee attrition patterns and key workforce insights.
+### 🎬 Netflix TV Shows Analysis
+Exploratory Data Analysis on the Netflix TV Shows dataset using Python — uncovering content trends, ratings, and distribution patterns.
+🔗 Project Repo: https://github.com/simranbhasin310/Netflix-TV-Shows-Analysis
 
-🔗 **Project Repo:** https://github.com/SimranBhasin13200/HR_Analytics
-
----
-
-### ✨ Key Highlights
-
-- Employee attrition pattern analysis  
-- Impact of salary, job role & satisfaction on retention  
-- Data cleaning & preprocessing using Python  
-- Exploratory Data Analysis (EDA) for insights  
-- Data visualization for trend discovery  
-
----
-
-### 🛠️ Tools Used
-
-Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
+### 📊 HR Analytics Dashboard
+Interactive Power BI dashboard analyzing employee attrition, workforce demographics, and job satisfaction for HR decision-making.
+🔗 Project Repo: https://github.com/simranbhasin310/HR_Analytics
 
 ## 🎯 Current Focus
 
 - Advanced SQL
+- Machine Learning & Model Evaluation
 - Power BI Dashboard Development
-- Python for Data Analysis
 - Business Intelligence
 - Data Storytelling
 - Real-world Analytics Projects
 
----
-
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/SimranBhasin1320">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:SimranBhasin1320@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/itzz.simran._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
+- 💼 LinkedIn: https://www.linkedin.com/in/simranbhasin310
+- 📧 Email: simranbhasin310@gmail.com
+- 🌍 Portfolio: https://simranbhasin310.github.io
 
 ## ✨ Quote I Believe In
 
 > "Without data, you're just another person with an opinion."
->
 > — W. Edwards Deming
-
----
 
 ## ⚡ Fun Fact
 
 I enjoy transforming messy datasets into meaningful stories and interactive dashboards that help people make smarter decisions.
 
----
-
-⭐️ From **Simran Bhasin**
+⭐️ From Simran Bhasin
